@@ -1,2 +1,2 @@
-# SQE_Terminal
-Terminal for the Course Software Quality Engineering 
+# SQE_Project
+Semester Project for the course Software Quality ENgineering 
